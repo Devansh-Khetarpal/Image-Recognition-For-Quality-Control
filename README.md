@@ -8,3 +8,7 @@ iv)Then run the requirements.txt file in your terminal to download all the neces
 v)The Yolov8.pynb is the model training file you need not to change it.
 vi)In order to run the project , open the terminal and type python app.py , after that an ip address will be displayed on which you have to click and open it in your browser.
 vii)Once the project is open you are good to go , you can upload the photo of shampoo bottles and identify the defects , the model will show you the desired results.
+
+Isha Khetarpal : https://github.com/isha-khetarpal
+Gunjan Pandey : https://github.com/gunjanpandey1
+Ayush Baurai : 
