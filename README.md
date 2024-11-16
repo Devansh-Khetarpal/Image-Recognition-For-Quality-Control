@@ -11,4 +11,4 @@ vii)Once the project is open you are good to go , you can upload the photo of sh
 
 Isha Khetarpal : https://github.com/isha-khetarpal
 Gunjan Pandey : https://github.com/gunjanpandey1
-Ayush Baurai : 
+Ayush Baurai : https://github.com/BAayush4
